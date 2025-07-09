@@ -1,8 +1,6 @@
 # 🔍 QR Code Generator  
 *A responsive web application that generates QR codes from text or URLs*
 
-![QR Code Generator Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
-
 ## 🌟 Overview  
 This project is a **modern QR code generator** that instantly converts text, URLs, or data into scannable QR codes. Built with HTML, CSS, and JavaScript, it features a sleek gradient UI, smooth animations, input validation, and responsive design for seamless use across mobile, tablet, and desktop devices. Powered by the **QRServer API**, it ensures reliable code generation without server-side dependencies.
 
